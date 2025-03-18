@@ -1,0 +1,12 @@
+textarea{
+    position: relative;
+    width: 98%;
+    margin: auto;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    height: 200px;
+    background: #cdcdcd50;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}

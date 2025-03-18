@@ -1,0 +1,17 @@
+.HomeHolder{
+    top: 49px;
+    bottom: 49px;
+    background: green;
+}
+
+.Title{
+    margin-left: 1rem;
+}
+
+.Left{
+    margin-right: 5%;
+}
+
+.SenderButton{
+    background: blue;
+}
